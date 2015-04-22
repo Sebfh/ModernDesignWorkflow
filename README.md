@@ -1,23 +1,24 @@
 # Modern Design Workflow
 Our take on the Modern Design Workflow
 
-## Inventory
-	- requirements
-	- component inventory 
+1 Inventory
+1.1 Devices & Browsers
+1.2 Component inventory 
 
-## Customer journey
-	- persona's
-	- pages => routes 
+2 Customer Journey
+2.1 Personas
+2.2 Pges & Routes
 
-## Component reference wireframe
-	- responsive
-	- customer journey mapping
 
-## Linear Design
-	- DOM
+3 Component reference wireframe
+3.1 Responsive
+3.2	Customer Journey Mapping
 
-## Visual Design
-	- Margins etc
+4 Linear Design
+4.1 DOM
 
-## HTML - Prototype
+5 Visual Design
+5.1 Margins etc
 
+6 HTML - Prototype
+6.1 Screens
