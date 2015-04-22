@@ -2,8 +2,7 @@
 Our take on the Modern Design Workflow
 
 1. **Inventory**
-  1. Devices & Browsers<br>
-  This is a default text
+  1. Devices & Browsers
   2. Component inventory 
 
 2. **Customer Journey**
