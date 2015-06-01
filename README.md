@@ -14,7 +14,7 @@ Our take on the Modern Design Workflow
   2. Customer Journey Mapping
 
 4. **Linear Design**
-  1. DOM
+  1. Componenten invullen
 
 5. **Visual Design**
   1. Margins etc
