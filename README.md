@@ -13,7 +13,7 @@ Our take on the Modern Design Workflow
   1. Responsive
   2. Customer Journey Mapping
 
-4. **Linear Design**
+4. **Interaction Design**
   1. Componenten invullen
 
 5. **Visual Design**
